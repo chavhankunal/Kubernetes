@@ -5,7 +5,6 @@ metadata:
   labels:
     app: deploy_app
 spec:
-++++++++++++++++++++++++++++++++++++++++++++++++++
     selector: 
       matchLabels: 
           app: deploy_app
